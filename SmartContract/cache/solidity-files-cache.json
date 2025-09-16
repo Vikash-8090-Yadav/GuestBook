@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/vikashyadav/Developer/AllgitFiles/GuestBook/SmartContract/contracts/guestbook.sol": {
+      "lastModificationDate": 1758034225456,
+      "contentHash": "af7f45073b2394f4c112e36769f80935",
+      "sourceName": "contracts/guestbook.sol",
+      "solcConfig": {
+        "version": "0.8.10",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "DigitalGuestbook"
+      ]
+    }
+  }
+}
